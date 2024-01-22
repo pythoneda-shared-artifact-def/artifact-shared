@@ -28,7 +28,7 @@
         "pythoneda-shared-banner";
       inputs.pythoneda-shared-domain.follows =
         "pythoneda-shared-domain";
-      url = "github:pythoneda-shared-artifact-def/artifact-events/0.0.26";
+      url = "github:pythoneda-shared-artifact-def/artifact-events/0.0.27";
     };
     pythoneda-shared-git-shared = {
       inputs.flake-utils.follows = "flake-utils";
